@@ -1,14 +1,17 @@
-## OutbackMovement
+# OutbackMovement
 
-#Driver:
+## Driver:
 You need to install this driver https://github.com/ViGEm/ViGEmBus/releases
 
-#Modules:
+## Modules:
 pip install -r requirements.txt
 
-#Keybinding:
+## Keybindings:
 https://github.com/boppreh/keyboard#api
 
-#Start:
+## Start:
 Open OutbackMovement.py
 
+## Default Keybindings executable 
+[reminder, you still have to install the driver]
+Run OutbackMovement.exe
