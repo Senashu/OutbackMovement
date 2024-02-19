@@ -1,8 +1,7 @@
 # OutbackMovement
 
-## Start:
-[reminder, you still have to install the driver]
-Open OutbackMovement.exe
+## Start: [reminder, you still have to install the driver]
+Open OutbackMovement.exe  https://github.com/ViGEm/ViGEmBus/releases
 
 ## Python start:
 
