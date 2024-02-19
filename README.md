@@ -1,6 +1,7 @@
 # OutbackMovement
 
 ## Start:
+[reminder, you still have to install the driver]
 Open OutbackMovement.exe
 
 ## Python start:
@@ -18,5 +19,5 @@ https://github.com/boppreh/keyboard#api
 Open OutbackMovement.py
 
 ### Default Keybindings executable 
-[reminder, you still have to install the driver]
+
 Run OutbackMovement.exe
