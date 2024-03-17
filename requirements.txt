@@ -1,3 +1,0 @@
-keyboard==0.13.5
-vgamepad==0.0.8
-
